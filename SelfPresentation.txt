@@ -1,0 +1,46 @@
+Hello.
+My name is Viktoryia Klimenka, I'm JavaScript Software Developer.
+I started as Java developer and gained more than 5 years of enterprise development experience.
+But since backend world doesn’t exist in a vacuum I did some frontend development as well from time to time.
+When I was joining Epam more than 2 years ago I had Java as primary skill with some knowledge of JavaScript,
+huge interest and will to study more about it. Since than I started gaining more and more experience in it,
+ most of my tasks got to be frontend-related so that currently I consider JavaScript as my primary skill.
+
+Most time since I've joined Epam I was working on Pentaho project.
+Pentaho is a huge Business intelligence suite with vast variety of opportunities for collecting, integration and analyzing data.
+Several teams, with mine among them were working on creating completely new module called Data Exploration Tool
+that was providing users with convenient way of visualizing data.
+For data visualizations we where using custom library built on top of protovis (same ancestor as d3).
+So in a nutshell we were showing different types of charts with opportunities to select particularly interesting data to be shown, to create several tabs,
+ filtering data based on parameter set, diving deeper into more details of the data shown.
+
+ We were using AngularJs as main frontend framework.
+ After synchronizing data among different component became a mess, we've added Redux for better state management.
+ I think it could significantly improve code quality. As well we where using lodash that freed us from reinventing the well
+ and supplied with bunch of useful functions. RequireJs help to separate codebase into modules.
+ With no surprises there where styles and Html pages.
+ Important part is unit tests, which where written using Jasmine and Karma as test runner. As control versioning system we were using Git,
+ doing code review on GitHub.
+
+I was the only representative from Epam side in the team, so all my teammates were from customer side: mainly Portugal, few people from US.
+I've took an active part in all my day-to-day meetings such as StandUps, Planings, Groomings, retros and demos:
+I was actively listening to understand and clarify needs and requirements, asked questions and raised concerns.
+I believe I'm a good team player because I understand from practice that in team that's either everyone wins or everyone looses,
+so I'm always willing to providing help and I understand the necessity to ask for help when you got stuck.
+I know well how knowledge sharing and transferring can speed up productivity and be beneficial for everyone.
+However I can work well on my own. During each Christmas all my teammates are gone having holidays and
+though being left on my own I do accomplish tasks in time with desired quality.
+
+As of key developer my responsibilities are the following:
+  -analyzing requirements and implementing new functionality, new features according to them
+    sometimes that involves prior investigations and spiking, sometimes I have to create POC, before proceeding with actual implementation
+  -adding unit tests,
+  -concluding code review,
+  -finding the cause and the fix for the bugs
+
+As of non-of-project activities currently I'm helping other project where there is only single FE dev working there by performing CodeReview.
+I'm interested in web and I'm trying to be better specialist then I was a day before
+and I'm doing my best to keep track of major technological changes. It happens to me all the time when you study something new then
+something changes and you have to use it. In those cases it helps a lot that you've prepared the ground and started studying in advance.
+I attend conferences (last was RSConf) and occasional JsCommunity events (JsDevDay),
+read books and articles (usually from medium) and pass online courses.
