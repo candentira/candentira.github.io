@@ -272,16 +272,19 @@ body.impress-mouse-timeout {
 .slide_2.present b {
   animation-name: yellowing;
   animation-duration: 5s;
-  animation-delay: 11s;
+  animation-delay: 6s;
   animation-iteration-count: 1;
 }
 
+/*
 .slide_2.present b span {
   animation-name: arrival;
-  animation-duration: 10s;
+  animation-duration: 5s;
+  animation-delay: 1s;
   animation-iteration-count: 1;
   animation-timing-function: ease-out;
 }
+*/
 
 .slide_2.present p span {
   font-weight: bold;
