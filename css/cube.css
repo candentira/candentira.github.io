@@ -276,11 +276,15 @@ body.impress-mouse-timeout {
   animation-iteration-count: 1;
 }
 
-.slide_2.present span {
+.slide_2.present b span {
   animation-name: arrival;
   animation-duration: 10s;
   animation-iteration-count: 1;
   animation-timing-function: ease-out;
+}
+
+.slide_2.present p span {
+  font-weight: bold;
 }
 
 .slide_3 p {
